@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="PaymentCard">
+        <item>_</item>
+        <item>MasterCard</item>
+        <item>Visa</item>
+    </string-array>
+</resources>
